@@ -1,0 +1,1030 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_MEC_5E SW14
+U 1 1 61BBE771
+P 1350 4700
+F 0 "SW14" H 1350 5025 50  0000 C CNN
+F 1 "SW_UP" H 1350 5100 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 1350 4700 50  0001 C CNN
+F 3 "~" H 1350 4700 50  0001 C CNN
+	1    1350 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW16
+U 1 1 61BBFE9F
+P 4500 4700
+F 0 "SW16" H 4500 5025 50  0000 C CNN
+F 1 "SW_RIGHT" H 4500 5100 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 4500 4700 50  0001 C CNN
+F 3 "~" H 4500 4700 50  0001 C CNN
+	1    4500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW18
+U 1 1 61BC0799
+P 3350 2800
+F 0 "SW18" H 3350 3125 50  0000 C CNN
+F 1 "SW_FIRE" H 3350 3200 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 3350 2800 50  0001 C CNN
+F 3 "~" H 3350 2800 50  0001 C CNN
+	1    3350 2800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW17
+U 1 1 61BC0D45
+P 3350 3350
+F 0 "SW17" H 3350 3675 50  0000 C CNN
+F 1 "SW_ARM" H 3350 3750 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 3350 3350 50  0001 C CNN
+F 3 "~" H 3350 3350 50  0001 C CNN
+	1    3350 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW1
+U 1 1 61BC132C
+P 5250 1050
+F 0 "SW1" H 5250 1450 50  0000 C CNN
+F 1 "SW_AST" H 5250 1350 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 1050 50  0001 C CNN
+F 3 "~" H 5250 1050 50  0001 C CNN
+	1    5250 1050
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW5
+U 1 1 61BC28A2
+P 5250 3400
+F 0 "SW5" H 5250 3800 50  0000 C CNN
+F 1 "SW_0" H 5250 3700 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 3400 50  0001 C CNN
+F 3 "~" H 5250 3400 50  0001 C CNN
+	1    5250 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW9
+U 1 1 61BC2E33
+P 5250 5750
+F 0 "SW9" H 5250 6150 50  0000 C CNN
+F 1 "SW_POUND" H 5250 6050 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 5750 50  0001 C CNN
+F 3 "~" H 5250 5750 50  0001 C CNN
+	1    5250 5750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW2
+U 1 1 61BC33E7
+P 5250 1600
+F 0 "SW2" H 5250 2000 50  0000 C CNN
+F 1 "SW_7" H 5250 1900 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 1600 50  0001 C CNN
+F 3 "~" H 5250 1600 50  0001 C CNN
+	1    5250 1600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW6
+U 1 1 61BC37D9
+P 5250 3950
+F 0 "SW6" H 5250 4275 50  0000 C CNN
+F 1 "SW_8" H 5250 4184 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 3950 50  0001 C CNN
+F 3 "~" H 5250 3950 50  0001 C CNN
+	1    5250 3950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW10
+U 1 1 61BC3DD5
+P 5250 6300
+F 0 "SW10" H 5250 6700 50  0000 C CNN
+F 1 "SW_9" H 5250 6600 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 6300 50  0001 C CNN
+F 3 "~" H 5250 6300 50  0001 C CNN
+	1    5250 6300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW11
+U 1 1 61BC4526
+P 5250 6900
+F 0 "SW11" H 5250 7300 50  0000 C CNN
+F 1 "SW_6" H 5250 7200 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 6900 50  0001 C CNN
+F 3 "~" H 5250 6900 50  0001 C CNN
+	1    5250 6900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW12
+U 1 1 61BC4967
+P 5250 7500
+F 0 "SW12" H 5250 7900 50  0000 C CNN
+F 1 "SW_3" H 5250 7800 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 7500 50  0001 C CNN
+F 3 "~" H 5250 7500 50  0001 C CNN
+	1    5250 7500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW8
+U 1 1 61BC4F58
+P 5250 5150
+F 0 "SW8" H 5250 5550 50  0000 C CNN
+F 1 "SW_2" H 5250 5450 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 5150 50  0001 C CNN
+F 3 "~" H 5250 5150 50  0001 C CNN
+	1    5250 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW7
+U 1 1 61BC5877
+P 5250 4550
+F 0 "SW7" H 5250 4950 50  0000 C CNN
+F 1 "SW_5" H 5250 4850 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 4550 50  0001 C CNN
+F 3 "~" H 5250 4550 50  0001 C CNN
+	1    5250 4550
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW3
+U 1 1 61BC5DB6
+P 5250 2200
+F 0 "SW3" H 5250 2600 50  0000 C CNN
+F 1 "SW_1" H 5250 2500 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 2200 50  0001 C CNN
+F 3 "~" H 5250 2200 50  0001 C CNN
+	1    5250 2200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW4
+U 1 1 61BC62CB
+P 5250 2800
+F 0 "SW4" H 5250 3200 50  0000 C CNN
+F 1 "SW_4" H 5250 3100 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 5250 2800 50  0001 C CNN
+F 3 "~" H 5250 2800 50  0001 C CNN
+	1    5250 2800
+	-1   0    0    -1  
+$EndComp
+Connection ~ 5050 1500
+Connection ~ 5050 2100
+Connection ~ 5050 2700
+Connection ~ 5050 3300
+Connection ~ 5050 3850
+Connection ~ 5050 4450
+Connection ~ 5050 5050
+Connection ~ 5050 5650
+Connection ~ 5050 6200
+Connection ~ 5050 6800
+Wire Wire Line
+	5450 950  5450 1050
+Wire Wire Line
+	5450 1500 5450 1600
+Wire Wire Line
+	5450 2700 5450 2800
+Wire Wire Line
+	5450 3300 5450 3400
+Wire Wire Line
+	5450 3850 5450 3950
+Wire Wire Line
+	5450 4450 5450 4550
+Wire Wire Line
+	5450 5650 5450 5750
+Wire Wire Line
+	5450 6200 5450 6300
+Wire Wire Line
+	5450 7400 5450 7500
+Text Label 6000 2700 0    50   ~ 0
+DIN_1
+Text Label 6000 950  0    50   ~ 0
+DIN_2
+$Comp
+L Device:D_Small D1
+U 1 1 61C02C6E
+P 5750 950
+F 0 "D1" H 5750 1157 50  0000 C CNN
+F 1 "D_Small" H 5750 1066 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5750 950 50  0001 C CNN
+F 3 "~" V 5750 950 50  0001 C CNN
+	1    5750 950 
+	1    0    0    1   
+$EndComp
+Text Label 6000 1500 0    50   ~ 0
+DIN_3
+Text Label 6000 1050 0    50   ~ 0
+DIN_4
+$Comp
+L Device:D_Small D3
+U 1 1 61C08D4B
+P 5750 1500
+F 0 "D3" H 5750 1707 50  0000 C CNN
+F 1 "D_Small" H 5750 1616 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp" V 5750 1500 50  0001 C CNN
+F 3 "~" V 5750 1500 50  0001 C CNN
+	1    5750 1500
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D2
+U 1 1 61C1278D
+P 5750 1050
+F 0 "D2" H 5750 1257 50  0000 C CNN
+F 1 "D_Small" H 5750 1166 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp" V 5750 1050 50  0001 C CNN
+F 3 "~" V 5750 1050 50  0001 C CNN
+	1    5750 1050
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5650 950  5450 950 
+Connection ~ 5450 950 
+Wire Wire Line
+	5650 1050 5450 1050
+Connection ~ 5450 1050
+$Comp
+L Device:D_Small D4
+U 1 1 61C1E0C8
+P 5750 1600
+F 0 "D4" H 5750 1807 50  0000 C CNN
+F 1 "D_Small" H 5750 1716 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp" V 5750 1600 50  0001 C CNN
+F 3 "~" V 5750 1600 50  0001 C CNN
+	1    5750 1600
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5650 1500 5450 1500
+Connection ~ 5450 1500
+Wire Wire Line
+	5650 1600 5450 1600
+Connection ~ 5450 1600
+Text Label 6000 1600 0    50   ~ 0
+DIN_4
+$Comp
+L Device:D_Small D5
+U 1 1 61C221D6
+P 5750 2100
+F 0 "D5" H 5750 2307 50  0000 C CNN
+F 1 "D_Small" H 5750 2216 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp" V 5750 2100 50  0001 C CNN
+F 3 "~" V 5750 2100 50  0001 C CNN
+	1    5750 2100
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5450 2100 5650 2100
+Text Label 6000 2100 0    50   ~ 0
+DIN_4
+$Comp
+L Device:D_Small D6
+U 1 1 61C2393F
+P 5750 2700
+F 0 "D6" H 5750 2600 50  0000 C CNN
+F 1 "D_Small" V 5750 2816 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" V 5750 2700 50  0001 C CNN
+F 3 "~" V 5750 2700 50  0001 C CNN
+	1    5750 2700
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D7
+U 1 1 61C23E23
+P 5750 2800
+F 0 "D7" H 5750 3007 50  0000 C CNN
+F 1 "D_Small" H 5750 2916 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5750 2800 50  0001 C CNN
+F 3 "~" V 5750 2800 50  0001 C CNN
+	1    5750 2800
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D8
+U 1 1 61C243EF
+P 5750 2900
+F 0 "D8" H 5750 3107 50  0000 C CNN
+F 1 "D_Small" H 5750 3016 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp" V 5750 2900 50  0001 C CNN
+F 3 "~" V 5750 2900 50  0001 C CNN
+	1    5750 2900
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5650 2700 5450 2700
+Connection ~ 5450 2700
+Wire Wire Line
+	5650 2800 5450 2800
+Connection ~ 5450 2800
+Wire Wire Line
+	5450 2800 5450 2900
+Wire Wire Line
+	5650 2900 5450 2900
+Wire Wire Line
+	6000 1500 5850 1500
+Wire Wire Line
+	5850 1600 6000 1600
+Wire Wire Line
+	6000 2100 5850 2100
+Wire Wire Line
+	6000 2700 5850 2700
+Wire Wire Line
+	6000 1050 5850 1050
+Wire Wire Line
+	6000 950  5850 950 
+Text Label 6000 2800 0    50   ~ 0
+DIN_2
+Text Label 6000 2900 0    50   ~ 0
+DIN_3
+Wire Wire Line
+	6000 2900 5850 2900
+Wire Wire Line
+	5850 2800 6000 2800
+$Comp
+L Device:D_Small D9
+U 1 1 61C388D9
+P 5750 3300
+F 0 "D9" H 5750 3507 50  0000 C CNN
+F 1 "D_Small" H 5750 3416 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" V 5750 3300 50  0001 C CNN
+F 3 "~" V 5750 3300 50  0001 C CNN
+	1    5750 3300
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D10
+U 1 1 61C38D11
+P 5750 3400
+F 0 "D10" H 5750 3607 50  0000 C CNN
+F 1 "D_Small" H 5750 3516 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5750 3400 50  0001 C CNN
+F 3 "~" V 5750 3400 50  0001 C CNN
+	1    5750 3400
+	1    0    0    1   
+$EndComp
+Text Label 6000 3300 0    50   ~ 0
+DIN_1
+Text Label 6000 3400 0    50   ~ 0
+DIN_2
+Wire Wire Line
+	6000 3400 5850 3400
+Wire Wire Line
+	5850 3300 6000 3300
+Wire Wire Line
+	5650 3300 5450 3300
+Connection ~ 5450 3300
+Wire Wire Line
+	5450 3400 5650 3400
+Connection ~ 5450 3400
+$Comp
+L Device:D_Small D11
+U 1 1 61C3F083
+P 5750 3850
+F 0 "D11" H 5750 3750 50  0000 C CNN
+F 1 "D_Small" H 5750 3966 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5750 3850 50  0001 C CNN
+F 3 "~" V 5750 3850 50  0001 C CNN
+	1    5750 3850
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D12
+U 1 1 61C3F677
+P 5750 3950
+F 0 "D12" H 5750 4157 50  0000 C CNN
+F 1 "D_Small" H 5750 4066 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp" V 5750 3950 50  0001 C CNN
+F 3 "~" V 5750 3950 50  0001 C CNN
+	1    5750 3950
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D13
+U 1 1 61C3F9B8
+P 5750 4050
+F 0 "D13" H 5750 4257 50  0000 C CNN
+F 1 "D_Small" H 5750 4166 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp" V 5750 4050 50  0001 C CNN
+F 3 "~" V 5750 4050 50  0001 C CNN
+	1    5750 4050
+	1    0    0    1   
+$EndComp
+Text Label 6000 3850 0    50   ~ 0
+DIN_2
+Text Label 6000 3950 0    50   ~ 0
+DIN_3
+Text Label 6000 4050 0    50   ~ 0
+DIN_4
+Wire Wire Line
+	5650 4050 5450 4050
+Wire Wire Line
+	5650 3950 5450 3950
+Connection ~ 5450 3950
+Wire Wire Line
+	5450 3950 5450 4050
+Wire Wire Line
+	5450 3850 5650 3850
+Connection ~ 5450 3850
+Wire Wire Line
+	5850 3850 6000 3850
+Wire Wire Line
+	6000 3950 5850 3950
+Wire Wire Line
+	5850 4050 6000 4050
+$Comp
+L Device:D_Small D14
+U 1 1 61C4A7E4
+P 5750 4450
+F 0 "D14" H 5750 4657 50  0000 C CNN
+F 1 "D_Small" H 5750 4566 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5750 4450 50  0001 C CNN
+F 3 "~" V 5750 4450 50  0001 C CNN
+	1    5750 4450
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D15
+U 1 1 61C4AC18
+P 5750 4550
+F 0 "D15" H 5750 4757 50  0000 C CNN
+F 1 "D_Small" H 5750 4666 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp" V 5750 4550 50  0001 C CNN
+F 3 "~" V 5750 4550 50  0001 C CNN
+	1    5750 4550
+	1    0    0    1   
+$EndComp
+Text Label 6000 4450 0    50   ~ 0
+DIN_2
+Text Label 6000 4550 0    50   ~ 0
+DIN_3
+Wire Wire Line
+	6000 4450 5850 4450
+Wire Wire Line
+	5850 4550 6000 4550
+Wire Wire Line
+	5650 4450 5450 4450
+Connection ~ 5450 4450
+Wire Wire Line
+	5650 4550 5450 4550
+Connection ~ 5450 4550
+$Comp
+L Device:D_Small D16
+U 1 1 61C533DC
+P 5750 5050
+F 0 "D16" H 5750 5257 50  0000 C CNN
+F 1 "D_Small" H 5750 5166 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp" V 5750 5050 50  0001 C CNN
+F 3 "~" V 5750 5050 50  0001 C CNN
+	1    5750 5050
+	1    0    0    1   
+$EndComp
+Text Label 6000 5050 0    50   ~ 0
+DIN_3
+Wire Wire Line
+	6000 5050 5850 5050
+Wire Wire Line
+	5650 5050 5450 5050
+$Comp
+L Device:D_Small D17
+U 1 1 61C57A13
+P 5750 5650
+F 0 "D17" H 5750 5857 50  0000 C CNN
+F 1 "D_Small" H 5750 5766 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" V 5750 5650 50  0001 C CNN
+F 3 "~" V 5750 5650 50  0001 C CNN
+	1    5750 5650
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5650 5650 5450 5650
+Connection ~ 5450 5650
+Text Label 6000 5750 0    50   ~ 0
+DIN_3
+$Comp
+L Device:D_Small D18
+U 1 1 61C5A2D3
+P 5750 5750
+F 0 "D18" H 5750 5957 50  0000 C CNN
+F 1 "D_Small" H 5750 5866 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp" V 5750 5750 50  0001 C CNN
+F 3 "~" V 5750 5750 50  0001 C CNN
+	1    5750 5750
+	1    0    0    1   
+$EndComp
+Text Label 6000 5650 0    50   ~ 0
+DIN_1
+Wire Wire Line
+	5650 5750 5450 5750
+Connection ~ 5450 5750
+$Comp
+L Device:D_Small D19
+U 1 1 61C63B58
+P 5750 6200
+F 0 "D19" H 5750 6407 50  0000 C CNN
+F 1 "D_Small" H 5750 6316 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5750 6200 50  0001 C CNN
+F 3 "~" V 5750 6200 50  0001 C CNN
+	1    5750 6200
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5850 5750 6000 5750
+Wire Wire Line
+	6000 5650 5850 5650
+Wire Wire Line
+	5650 6200 5450 6200
+Connection ~ 5450 6200
+Text Label 6000 6200 0    50   ~ 0
+DIN_2
+Wire Wire Line
+	6000 6200 5850 6200
+$Comp
+L Device:D_Small D20
+U 1 1 61C6EEB5
+P 5750 6800
+F 0 "D20" H 5750 7007 50  0000 C CNN
+F 1 "D_Small" H 5750 6916 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" V 5750 6800 50  0001 C CNN
+F 3 "~" V 5750 6800 50  0001 C CNN
+	1    5750 6800
+	1    0    0    1   
+$EndComp
+Text Label 6000 6800 0    50   ~ 0
+DIN_1
+Wire Wire Line
+	6000 6800 5850 6800
+Wire Wire Line
+	5650 6800 5450 6800
+$Comp
+L Device:D_Small D21
+U 1 1 61C75C52
+P 5750 7400
+F 0 "D21" H 5750 7607 50  0000 C CNN
+F 1 "D_Small" H 5750 7516 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" V 5750 7400 50  0001 C CNN
+F 3 "~" V 5750 7400 50  0001 C CNN
+	1    5750 7400
+	1    0    0    1   
+$EndComp
+Connection ~ 5450 7400
+Wire Wire Line
+	5650 7400 5450 7400
+Text Label 6000 7400 0    50   ~ 0
+DIN_1
+$Comp
+L Device:D_Small D22
+U 1 1 61C7A189
+P 5750 7500
+F 0 "D22" H 5750 7707 50  0000 C CNN
+F 1 "D_Small" H 5750 7616 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp" V 5750 7500 50  0001 C CNN
+F 3 "~" V 5750 7500 50  0001 C CNN
+	1    5750 7500
+	1    0    0    1   
+$EndComp
+Text Label 6000 7500 0    50   ~ 0
+DIN_4
+Wire Wire Line
+	6000 7500 5850 7500
+Wire Wire Line
+	5850 7400 6000 7400
+Wire Wire Line
+	5650 7500 5450 7500
+Connection ~ 5450 7500
+$Comp
+L Connector_Generic:Conn_01x09 J1
+U 1 1 61D2A990
+P 1250 2750
+F 0 "J1" V 1467 2746 50  0000 C CNN
+F 1 "Conn_01x09" V 1376 2746 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical" H 1250 2750 50  0001 C CNN
+F 3 "~" H 1250 2750 50  0001 C CNN
+	1    1250 2750
+	0    -1   -1   0   
+$EndComp
+Text Label 850  2950 3    50   ~ 0
+DIN_1
+Text Label 950  2950 3    50   ~ 0
+DIN_2
+Text Label 1050 2950 3    50   ~ 0
+DIN_3
+Text Label 1150 2950 3    50   ~ 0
+DIN_4
+Text Label 1250 2950 3    50   ~ 0
+DIN_5
+Text Label 1350 2950 3    50   ~ 0
+DIN_6
+Text Label 1550 2950 3    50   ~ 0
+DIN_8
+$Comp
+L Device:D_Small D26
+U 1 1 61C28B30
+P 4200 4500
+F 0 "D26" V 4200 4700 50  0000 C CNN
+F 1 "D_Small" V 4100 4700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 4200 4500 50  0001 C CNN
+F 3 "~" V 4200 4500 50  0001 C CNN
+	1    4200 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D24
+U 1 1 61C2F272
+P 1050 4500
+F 0 "D24" V 1050 4707 50  0000 C CNN
+F 1 "D_Small" V 950 4700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 1050 4500 50  0001 C CNN
+F 3 "~" V 1050 4500 50  0001 C CNN
+	1    1050 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D25
+U 1 1 61C33BA6
+P 2100 4500
+F 0 "D25" V 2100 4700 50  0000 C CNN
+F 1 "D_Small" V 2000 4700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 2100 4500 50  0001 C CNN
+F 3 "~" V 2100 4500 50  0001 C CNN
+	1    2100 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D27
+U 1 1 61C3BCF1
+P 2950 3350
+F 0 "D27" H 2950 3557 50  0000 C CNN
+F 1 "D_Small" H 2950 3466 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 2950 3350 50  0001 C CNN
+F 3 "~" V 2950 3350 50  0001 C CNN
+	1    2950 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D28
+U 1 1 61C3C3E4
+P 2950 2900
+F 0 "D28" H 2950 3107 50  0000 C CNN
+F 1 "D_Small" H 2950 3016 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 2950 2900 50  0001 C CNN
+F 3 "~" V 2950 2900 50  0001 C CNN
+	1    2950 2900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2700 2900 2850 2900
+Wire Wire Line
+	2700 3350 2850 3350
+Wire Wire Line
+	2700 3350 2700 2900
+Wire Wire Line
+	3050 3350 3150 3350
+Wire Wire Line
+	3050 2900 3150 2900
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 61C77F4C
+P 6550 6100
+F 0 "H1" H 6650 6146 50  0000 L CNN
+F 1 "MountingHole" H 6650 6055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 6550 6100 50  0001 C CNN
+F 3 "~" H 6550 6100 50  0001 C CNN
+	1    6550 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 61C78473
+P 7300 6100
+F 0 "H3" H 7400 6146 50  0000 L CNN
+F 1 "MountingHole" H 7400 6055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 7300 6100 50  0001 C CNN
+F 3 "~" H 7300 6100 50  0001 C CNN
+	1    7300 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 61C78D64
+P 8050 6100
+F 0 "H5" H 8150 6146 50  0000 L CNN
+F 1 "MountingHole" H 8150 6055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 8050 6100 50  0001 C CNN
+F 3 "~" H 8050 6100 50  0001 C CNN
+	1    8050 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 61C79759
+P 7300 6400
+F 0 "H4" H 7400 6446 50  0000 L CNN
+F 1 "MountingHole" H 7400 6355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 7300 6400 50  0001 C CNN
+F 3 "~" H 7300 6400 50  0001 C CNN
+	1    7300 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 61C79D9B
+P 6550 6400
+F 0 "H2" H 6650 6446 50  0000 L CNN
+F 1 "MountingHole" H 6650 6355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 6550 6400 50  0001 C CNN
+F 3 "~" H 6550 6400 50  0001 C CNN
+	1    6550 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 61C83B29
+P 8050 6400
+F 0 "H6" H 8150 6446 50  0000 L CNN
+F 1 "MountingHole" H 8150 6355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 8050 6400 50  0001 C CNN
+F 3 "~" H 8050 6400 50  0001 C CNN
+	1    8050 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 61BEC4CB
+P 9000 6250
+F 0 "H7" H 9100 6296 50  0000 L CNN
+F 1 "MountingHole" H 9100 6205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5" H 9000 6250 50  0001 C CNN
+F 3 "~" H 9000 6250 50  0001 C CNN
+	1    9000 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 61C2B967
+P 9750 6100
+F 0 "H8" H 9850 6146 50  0000 L CNN
+F 1 "MountingHole" H 9850 6055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 9750 6100 50  0001 C CNN
+F 3 "~" H 9750 6100 50  0001 C CNN
+	1    9750 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 61C2C927
+P 9750 6400
+F 0 "H9" H 9850 6446 50  0000 L CNN
+F 1 "MountingHole" H 9850 6355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 9750 6400 50  0001 C CNN
+F 3 "~" H 9750 6400 50  0001 C CNN
+	1    9750 6400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 6800 5050 6900
+Wire Wire Line
+	3150 3450 3150 3350
+Connection ~ 3150 3350
+Wire Wire Line
+	3550 3350 3550 3450
+Wire Wire Line
+	3550 2800 3550 2900
+Wire Wire Line
+	3150 2800 3150 2900
+Connection ~ 3150 2900
+Wire Wire Line
+	4300 4600 4300 4700
+Wire Wire Line
+	4700 4700 4700 4600
+Wire Wire Line
+	1550 4700 1550 4600
+Wire Wire Line
+	1150 4600 1150 4700
+Wire Wire Line
+	2600 4600 2600 4700
+Wire Wire Line
+	2200 4600 2200 4700
+Wire Wire Line
+	3650 4700 3650 4600
+$Comp
+L Device:D_Small D23
+U 1 1 61C193DE
+P 3150 4500
+F 0 "D23" V 3150 4707 50  0000 C CNN
+F 1 "D_Small" V 3050 4700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 3150 4500 50  0001 C CNN
+F 3 "~" V 3150 4500 50  0001 C CNN
+	1    3150 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW15
+U 1 1 61BC01FE
+P 2400 4700
+F 0 "SW15" H 2400 5025 50  0000 C CNN
+F 1 "SW_DOWN" H 2400 5100 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 2400 4700 50  0001 C CNN
+F 3 "~" H 2400 4700 50  0001 C CNN
+	1    2400 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_MEC_5E SW13
+U 1 1 61BBE5A7
+P 3450 4700
+F 0 "SW13" H 3450 5025 50  0000 C CNN
+F 1 "SW_LEFT" H 3450 5100 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 3450 4700 50  0001 C CNN
+F 3 "~" H 3450 4700 50  0001 C CNN
+	1    3450 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3250 4600 3250 4700
+Wire Wire Line
+	5050 3300 5050 3400
+Connection ~ 5050 3400
+Wire Wire Line
+	5050 3400 5050 3850
+Wire Wire Line
+	5050 2700 5050 2800
+Connection ~ 5050 2800
+Wire Wire Line
+	5050 2800 5050 3300
+Wire Wire Line
+	5050 950  5050 1050
+Connection ~ 5050 1050
+Wire Wire Line
+	5050 1050 5050 1500
+Wire Wire Line
+	5450 2200 5450 2100
+Connection ~ 5450 2100
+Wire Wire Line
+	5050 3850 5050 3950
+Connection ~ 5050 3950
+Wire Wire Line
+	5050 3950 5050 4450
+Wire Wire Line
+	5050 4450 5050 4550
+Connection ~ 5050 4550
+Wire Wire Line
+	5050 4550 5050 5050
+Wire Wire Line
+	5450 5150 5450 5050
+Connection ~ 5450 5050
+Wire Wire Line
+	5050 5050 5050 5150
+Connection ~ 5050 5150
+Wire Wire Line
+	5050 5150 5050 5650
+Wire Wire Line
+	5050 6200 5050 6300
+Connection ~ 5050 6300
+Wire Wire Line
+	5050 6300 5050 6800
+Connection ~ 5050 6900
+Wire Wire Line
+	5050 6900 5050 7400
+Wire Wire Line
+	5450 6900 5450 6800
+Connection ~ 5450 6800
+Wire Wire Line
+	5050 7500 5050 7400
+Connection ~ 5050 7400
+Wire Wire Line
+	5050 5650 5050 5750
+Connection ~ 5050 5750
+Wire Wire Line
+	5050 5750 5050 6200
+Wire Wire Line
+	5050 2100 5050 2200
+Connection ~ 5050 2200
+Wire Wire Line
+	5050 2200 5050 2700
+Wire Wire Line
+	5050 1500 5050 1600
+Connection ~ 5050 1600
+Wire Wire Line
+	850  2950 850  4350
+Wire Wire Line
+	850  4350 1050 4350
+Wire Wire Line
+	950  2950 950  4250
+Wire Wire Line
+	950  4250 2100 4250
+Wire Wire Line
+	1050 2950 1050 4150
+Wire Wire Line
+	1050 4150 3150 4150
+Wire Wire Line
+	1150 2950 1150 4050
+Wire Wire Line
+	1150 4050 4200 4050
+Wire Wire Line
+	1250 2950 1250 3950
+Wire Wire Line
+	1250 3950 3550 3950
+Wire Wire Line
+	1350 2950 1350 3350
+Wire Wire Line
+	1350 3350 2700 3350
+Connection ~ 2700 3350
+Wire Wire Line
+	3550 3450 3550 3950
+Connection ~ 3550 3450
+Connection ~ 3550 3950
+Wire Wire Line
+	3550 3950 5050 3950
+Wire Wire Line
+	1550 2950 1550 3250
+Wire Wire Line
+	1550 3250 2600 3250
+Wire Wire Line
+	2600 3250 2600 2700
+Wire Wire Line
+	2600 2700 3550 2700
+Wire Wire Line
+	3550 2700 3550 2800
+Connection ~ 3550 2800
+Wire Wire Line
+	2600 2700 2600 2450
+Wire Wire Line
+	1550 5050 1550 4700
+Connection ~ 2600 2700
+Connection ~ 1550 4700
+Wire Wire Line
+	1550 5050 2600 5050
+Wire Wire Line
+	2600 5050 2600 4700
+Connection ~ 1550 5050
+Connection ~ 2600 4700
+Wire Wire Line
+	2600 5050 3650 5050
+Wire Wire Line
+	3650 5050 3650 4700
+Connection ~ 2600 5050
+Connection ~ 3650 4700
+Wire Wire Line
+	3650 5050 4700 5050
+Wire Wire Line
+	4700 5050 4700 4700
+Connection ~ 3650 5050
+Connection ~ 4700 4700
+Wire Wire Line
+	650  2450 650  5050
+Wire Wire Line
+	650  2450 2600 2450
+Wire Wire Line
+	650  5050 1550 5050
+Wire Wire Line
+	5050 1600 5050 2100
+Text Notes 5500 700  0    50   ~ 0
+KEYPAD
+Text Notes 3050 2600 0    50   ~ 0
+ACTION BUTTONS\n
+Text Notes 2250 5250 0    50   ~ 0
+DIRECTION BUTTONS
+Text Notes 7950 5800 0    50   ~ 0
+MOUNTING HOLES\n
+Wire Wire Line
+	1050 4350 1050 4400
+Wire Wire Line
+	1050 4600 1150 4600
+Connection ~ 1150 4600
+Wire Wire Line
+	2100 4250 2100 4400
+Wire Wire Line
+	2100 4600 2200 4600
+Connection ~ 2200 4600
+Wire Wire Line
+	3150 4150 3150 4400
+Wire Wire Line
+	3150 4600 3250 4600
+Connection ~ 3250 4600
+Wire Wire Line
+	4200 4050 4200 4400
+Wire Wire Line
+	4200 4600 4300 4600
+Connection ~ 4300 4600
+$EndSCHEMATC

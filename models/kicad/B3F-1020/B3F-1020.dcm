@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B3F-1020
+D Switch Tact SPST,flat 5mm act,PC Pins Black Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 0.9mm
+K
+F http://www.omron.com/ecb/products/pdf/en-b3f.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+**/lib
+**/obj 
+**/out
+**/exe
+*.*-bak
+*.iam
+*.ipt
+*.dwg
