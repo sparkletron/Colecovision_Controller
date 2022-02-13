@@ -3,7 +3,7 @@ Controller for colecovision
 
 author: Jay Convertino  
 
-data: 2022.01.31  
+date: 2022.01.31  
 
 license: none
 
