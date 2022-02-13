@@ -24,7 +24,7 @@ license: none
 ## Parts list
 |  REF  |     PART NUMBER     | QUANTITY |
 |:---   |:---                 |:---      |
-|D1-D28 |1N914                |26        |
+|D1-D28 |1N914                |28        |
 |S1-S18 |Omron B3F-10XX       |18        |
 |J1     |RB-GEN-5839(cable)   |1         |
 |NA     |SHELL TOP (3D print) |1         |
