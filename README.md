@@ -27,6 +27,7 @@ license: none
 |D1-D28 |1N914                  |28        |
 |S1-S18 |Omron B3F-10XX         |18        |
 |J1     |RB-GEN-5839(cable)     |1         |
+|H1-H8  |#4 x 5/8" Pan,Sheet    |8         |
 |NA     |SHELL TOP (3D print)   |1         |
 |NA     |SHELL BOT (3D print)   |1         |
 |NA     |NUMPAD (3D print)      |12        |
@@ -39,6 +40,8 @@ license: none
     - 100% size for all buttons
   - Single sided PCB
   - Only the smallest diode footprint need to be installed vertically.
-  - Screws should be 1/2 inch long at most (from memory, need to double check).
-    - Course thread (think small wood screw)
-    - 1/8th diameter (from memory, need to double check).
+  - 8 Screws 
+    - 5/8th inch long at most.
+    - #4 screw 0.112 inch diameter.
+    - Course thread (sheet metal type).
+    - Pan Head no larger then 3/16th of an inch.
