@@ -22,16 +22,16 @@ license: none
   - Board built and tested using a T-Tech 5000 CNC mill v4 isopro.
 
 ## Parts list
-|  REF  |     PART NUMBER     | QUANTITY |
-|:---   |:---                 |:---      |
-|D1-D28 |1N914                |28        |
-|S1-S18 |Omron B3F-10XX       |18        |
-|J1     |RB-GEN-5839(cable)   |1         |
-|NA     |SHELL TOP (3D print) |1         |
-|NA     |SHELL BOT (3D print) |1         |
-|NA     |KEYPAD (3D print)    |12        |
-|NA     |JOYPAD (3D print)    |1         |
-|NA     |PAD BUTTON (3D print)|2         |
+|  REF  |      PART NUMBER      | QUANTITY |
+|:---   |:---                   |:---      |
+|D1-D28 |1N914                  |28        |
+|S1-S18 |Omron B3F-10XX         |18        |
+|J1     |RB-GEN-5839(cable)     |1         |
+|NA     |SHELL TOP (3D print)   |1         |
+|NA     |SHELL BOT (3D print)   |1         |
+|NA     |NUMPAD (3D print)      |12        |
+|NA     |DPAD (3D print)        |1         |
+|NA     |FIRE BUTTON (3D print) |2         |
 
 ## Assembly Tips
   - 3D print using ABS plastic.
