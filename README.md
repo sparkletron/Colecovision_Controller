@@ -9,13 +9,13 @@ license: MIT (All files in repo)
 
 ## Release Versions
 ### Current
-  - release_v1
+  - release_v1.0.1 : Switched ARM/FIRE buttons to match original controller
 
 ### Past
-  - none
+  - release_v1
   
 ## Requirements
-  - KiCad v5
+  - KiCad v7
 
 ## Building
   - KiCad can generate any gerbers you are looking for.

@@ -1267,7 +1267,7 @@
   (symbol (lib_id "Switch:SW_MEC_5E") (at 85.09 71.12 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061bc0799)
-    (property "Reference" "SW18" (at 85.09 79.375 0)
+    (property "Reference" "SW17" (at 85.09 79.375 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_FIRE" (at 85.09 81.28 0)
@@ -1286,7 +1286,7 @@
     (instances
       (project "colecovision_controller"
         (path "/909efb56-6ead-4c33-b43f-ae05a3878582"
-          (reference "SW18") (unit 1)
+          (reference "SW17") (unit 1)
         )
       )
     )
@@ -1295,7 +1295,7 @@
   (symbol (lib_id "Switch:SW_MEC_5E") (at 85.09 85.09 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061bc0d45)
-    (property "Reference" "SW17" (at 85.09 93.345 0)
+    (property "Reference" "SW18" (at 85.09 93.345 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_ARM" (at 85.09 95.25 0)
@@ -1314,7 +1314,7 @@
     (instances
       (project "colecovision_controller"
         (path "/909efb56-6ead-4c33-b43f-ae05a3878582"
-          (reference "SW17") (unit 1)
+          (reference "SW18") (unit 1)
         )
       )
     )
@@ -2095,7 +2095,7 @@
   (symbol (lib_id "Device:D_Small") (at 74.93 85.09 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061c3bcf1)
-    (property "Reference" "D27" (at 74.93 90.3478 0)
+    (property "Reference" "D28" (at 74.93 90.3478 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 74.93 88.0364 0)
@@ -2112,7 +2112,7 @@
     (instances
       (project "colecovision_controller"
         (path "/909efb56-6ead-4c33-b43f-ae05a3878582"
-          (reference "D27") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -2121,7 +2121,7 @@
   (symbol (lib_id "Device:D_Small") (at 74.93 73.66 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061c3c3e4)
-    (property "Reference" "D28" (at 74.93 78.9178 0)
+    (property "Reference" "D27" (at 74.93 78.9178 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Small" (at 74.93 76.6064 0)
@@ -2138,7 +2138,7 @@
     (instances
       (project "colecovision_controller"
         (path "/909efb56-6ead-4c33-b43f-ae05a3878582"
-          (reference "D28") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
